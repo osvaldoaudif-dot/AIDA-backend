@@ -1,6 +1,4 @@
-flet
+fastapi
+uvicorn
+pydantic
 requests
-urllib3
-certifi
-idna
-charset-normalizer
